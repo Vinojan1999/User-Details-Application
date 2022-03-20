@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UserDetails App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">UserDetails</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment"></string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="textview">TextView</string>
+    <string name="nameLable">Name :</string>
+    <string name="textview_username"></string>
+    <string name="textview_email"></string>
+    <string name="lable_email">E-mail :</string>
+    <string name="lable_username">Username :</string>
+    <string name="TextBox">Put the ID and click View to show the user details</string>
+    <string name="View">View</string>
+</resources>
